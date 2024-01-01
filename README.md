@@ -1,4 +1,4 @@
-#  Projeto simples do curso com o professor Matheus Battisti.Envolvendo a criação de uma página web para uma agencia que cria softwares.
+#  Projeto simples do curso de Bootstratp, com o professor Matheus Battisti. Envolvendo a criação de uma página web para uma agencia que cria softwares.
 
 
 * Bootstrap;
