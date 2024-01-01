@@ -14,4 +14,6 @@
   - **6:** Criando formulário e footer;
   - **7:** Colonando reponsividade no projeto, para tablet e celulares;
   - **8:** Criando Scroll animado;
+ 
 
+![ninja web agency](https://github.com/joaopedro-hub/curso_bootstrap/assets/76401103/9d0ad654-3e6e-4354-9c08-b50321b085e4)
